@@ -1,5 +1,6 @@
 # CS330-Journal
-![Screenshot 2025-06-22 194312](https://github.com/user-attachments/assets/742e63ea-b3da-47a7-8e08-6ef056b0fa70)
+
+![pic](https://github.com/user-attachments/assets/23a82d92-45f0-4f74-b870-0375e4207ff0)
 
 
 For my final project, I recreated a 3D scene of a laptop and flashlight placed on a desk, closely modeled after a real photo. The goal was to take a 2D reference image and construct an interactive 3D version using OpenGL and C++. This project allowed me to explore core computer graphics concepts such as 3D modeling, lighting, textures, and camera navigation. It also gave me a chance to demonstrate my ability to apply course concepts in a visually clear, functional way.
